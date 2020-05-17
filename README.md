@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Priv - Offline Photo Video Encryption
 
-You can use the [editor on GitHub](https://github.com/haikynguyen/privpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. 👩‍All photos and videos are encrypted locally in your device with private local key.
+2. 🙅‍Do not delete the original copy of your items after transfer to Priv. Priv is a tool for data privacy, not data backups.
+3. 🙋‍Let us know if you have any feature request. We will add it if thing’s well and allowed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haikynguyen/privpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any feedback? Send us an email to privapp@gmail.com
