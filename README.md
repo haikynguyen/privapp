@@ -1,10 +1,13 @@
 # Priv - Offline Photo Video Encryption
 
 
-Priv is a secure and convenient way to store your sensitive photos and videos.\
-Offline encrypt your sensitive photos and videos in your device with a local private key.\
-Protecting from others to see your photos and videos by Face ID/Touch ID/Passcode.\
-Private view mode with dim light to quickly check your photos and videos in public.
+Priv is a secure and convenient way to store and view your sensitive photos and videos. 
+
+Priv takes photo and video copies of your choice from device photo library,   
+encrypt them with a local auto generated secret key and store offline those encrypted copies inside the app.  
+You can view those items from Priv and use the dim light mode to review your items in public.
+
+Face ID/ Touch ID / Passcode is required whenever the app is revisited to double protect your items from others.
 
 Here are something you need to know:
 
